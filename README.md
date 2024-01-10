@@ -1,0 +1,1 @@
+This repository will contain 2 prototype implementations of audio streaming protocols, one with Websockets and the otherone with RTSP.
