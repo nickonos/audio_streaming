@@ -1,0 +1,7 @@
+go 1.21.1
+
+
+// So that the GO LSP won't cry 
+use ./rtsp/server
+use ./hls/server
+use ./rtsp/streamer

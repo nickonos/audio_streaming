@@ -1,1 +1,1 @@
-This repository will contain 2 prototype implementations of audio streaming protocols, one with Websockets and the otherone with RTSP.
+This repository will contain 2 prototype implementations of audio streaming protocols, one with HLS and the otherone with RTSP. The client will consist of a simple Vite React front-end, as I am using a Remix.js front-end in the real project, and we will have to see how to implement the streaming protocol. And the backend will be a barebones Go project as GO is the primary backend language in the project. 
